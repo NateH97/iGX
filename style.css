@@ -1,8 +1,11 @@
-.header {
+header {
   text-align: center;}
-.body {
+body {
   background-color: black;
   color: lightskyblue;
   text-align: left;}
-.main {
+main {
   text-align: left;}
+h3 {
+  border-bottom: 2px solid white;
+  width: fit-content;}
