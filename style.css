@@ -6,6 +6,10 @@ body {
   text-align: left;}
 main {
   text-align: left;}
+h1 {
+  border: 2px solid white;
+  padding: 20px;
+  width: fit-content;}
 h3 {
   border-bottom: 2px solid white;
   width: fit-content;}
